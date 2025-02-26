@@ -149,8 +149,7 @@ After starting the server, you’ll land on the home page. This page introduces 
 - **Crop Info**: Get detailed information about vegetables by name.
 
 ## Results
-  <img src="https://github.com/NaveenKumar101610/Agri-Chat-Bot//blob/main/Results/krushak%20.gif" width="550" /> 
-  
-  <img src="https://github.com/NaveenKumar101610/Agri-Chat-Bot//blob/main/Results/chat.png" width="400" />  
-  <img src="https://github.com/NaveenKumar101610/Agri-Chat-Bot//blob/main/Results/gov1.png" width="400" />  
-  <img src="https://github.com/NaveenKumar101610/Agri-Chat-Bot//blob/main/Results/gov2.png" width="400" /> 
+  <img src="https://github.com/NaveenKumar101610/Agri-Chat-Bot/blob/main/Results/krushak%20.gif" width="550" /> 
+  <img src="https://github.com/NaveenKumar101610/Agri-Chat-Bot/blob/main/Results/chat.png" width="400" />  
+  <img src="https://github.com/NaveenKumar101610/Agri-Chat-Bot/blob/main/Results/gov1.png" width="400" />  
+  <img src="https://github.com/NaveenKumar101610/Agri-Chat-Bot/blob/main/Results/gov2.png" width="400" /> 
