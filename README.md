@@ -1,6 +1,6 @@
-# Krushak-Agri-Chat-Bot
+# Agri-Chat-Bot
 
-**Krushak-Agri-Chat-Bot** is an intelligent agricultural chatbot designed to assist farmers with a variety of tasks and queries. Powered by **Google Gemini**, the chatbot offers a ChatGPT-like interface with robust multi-language communication, voice interaction, and WhatsApp integration. This ensures a seamless and accessible experience for farmers across different regions and languages. The chatbot is powered by Django on the backend and Bootstrap for a responsive user interface.
+**Agri-Chat-Bot** is an intelligent agricultural chatbot designed to assist farmers with a variety of tasks and queries. Powered by **Google Gemini**, the chatbot offers a ChatGPT-like interface with robust multi-language communication, voice interaction, and WhatsApp integration. This ensures a seamless and accessible experience for farmers across different regions and languages. The chatbot is powered by Django on the backend and Bootstrap for a responsive user interface.
 
 ---
 
@@ -8,7 +8,7 @@
 
 Farmers often struggle to find the information they need because it is scattered across many websites and platforms. Many farmers are not even aware of government portals where they can get details about subsidies, loans, or farming equipment. Even when they know about these portals, the information is not well-organized in one place.
 
-**Krushak-Agri-Chat-Bot** solves this problem by acting as a one-stop solution for all agriculture-related queries. It provides all the information farmers need and allows them to find answers quickly. To make things even easier, Krushak-Agri-Chat-Bot is deployed on WhatsApp, a platform many farmers are familiar with. This eliminates the need for browsing the internet, making data more accessible to those who prefer WhatsApp.
+**Agri-Chat-Bot** solves this problem by acting as a one-stop solution for all agriculture-related queries. It provides all the information farmers need and allows them to find answers quickly. To make things even easier, Agri-Chat-Bot is deployed on WhatsApp, a platform many farmers are familiar with. This eliminates the need for browsing the internet, making data more accessible to those who prefer WhatsApp.
 
 ---
 
@@ -22,7 +22,7 @@ Farmers often struggle to find the information they need because it is scattered
 - **Weather Updates**: Provides real-time weather information to help farmers plan their agricultural activities effectively.
 - **Region-Based Schemes and Subsidies**: By simply providing the name of their region, farmers can access a table with all relevant schemes, subsidies, and loan details.
 - **Crop Information by Name**: Farmers can get detailed information about any vegetable just by providing its name.
-- **Web Scraping for Comprehensive Data**: Krushak-Agri-Chat-Bot scrapes and consolidates information from across the internet, ensuring farmers receive all the relevant data in one place.
+- **Web Scraping for Comprehensive Data**: Agri-Chat-Bot scrapes and consolidates information from across the internet, ensuring farmers receive all the relevant data in one place.
 - **Django Framework**: Utilizes Django for the backend, ensuring scalability and robust performance.
 - **Responsive Design**: Frontend built using Bootstrap, providing an easy-to-use interface across devices, including smartphones and tablets.
 
@@ -76,7 +76,7 @@ Follow these steps to set up and run the Krushak AI project locally:
    Clone the Git repository to your local system:
 
    ```bash
-   git clone https://github.com/astronova001/Krushak-Agri-Chat-Bot.git
+   git clone https://github.com/astronova001/Agri-Chat-Bot.git
    ```
 
 2. **Create and Activate a Virtual Environment**
@@ -149,8 +149,8 @@ After starting the server, you’ll land on the home page. This page introduces 
 - **Crop Info**: Get detailed information about vegetables by name.
 
 ## Results
-  <img src="https://github.com/astronova001/Krushak-Agri-Chat-Bot/blob/main/Results/krushak%20.gif" width="550" /> 
+  <img src="https://github.com/astronova001/Agri-Chat-Bot/blob/main/Results/krushak%20.gif" width="550" /> 
   
-  <img src="https://github.com/astronova001/Krushak-Agri-Chat-Bot/blob/main/Results/chat.png" width="400" />  
-  <img src="https://github.com/astronova001/Krushak-Agri-Chat-Bot/blob/main/Results/gov1.png" width="400" />  
-  <img src="https://github.com/astronova001/Krushak-Agri-Chat-Bot/blob/main/Results/gov2.png" width="400" /> 
+  <img src="https://github.com/astronova001/Agri-Chat-Bot/blob/main/Results/chat.png" width="400" />  
+  <img src="https://github.com/astronova001/Agri-Chat-Bot/blob/main/Results/gov1.png" width="400" />  
+  <img src="https://github.com/astronova001/Agri-Chat-Bot/blob/main/Results/gov2.png" width="400" /> 
